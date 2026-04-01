@@ -1,0 +1,438 @@
+WEBVTT
+
+1
+00:00:03.190 --> 00:00:07.620
+jb2hj@mtmail.mtsu.edu: Yeah, the AI disclaimer, I read it just now, I think it's fine.
+
+2
+00:00:07.850 --> 00:00:10.130
+jb2hj@mtmail.mtsu.edu: Because we didn't really do anything for the code.
+
+3
+00:00:10.330 --> 00:00:16.579
+jb2hj@mtmail.mtsu.edu: Environmental setup, I was kind of writing it before the meeting, so I'll finish it up after…
+
+4
+00:00:17.650 --> 00:00:29.270
+jb2hj@mtmail.mtsu.edu: After the meeting? I'm almost done. I just have to add, one or two more things about the libraries and everything, and y'all can, beautify it, I don't know.
+
+5
+00:00:29.460 --> 00:00:32.870
+jb2hj@mtmail.mtsu.edu: And… Alright.
+
+6
+00:00:34.250 --> 00:00:35.030
+jb2hj@mtmail.mtsu.edu: For sure.
+
+7
+00:00:39.060 --> 00:00:41.630
+jb2hj@mtmail.mtsu.edu: else? What was the other? Yeah, go ahead, go ahead.
+
+8
+00:00:43.640 --> 00:00:50.950
+Jennifer p: The third thing I put on the agenda is, like, I just wanted to kind of make clear a few things on the report, just…
+
+9
+00:00:51.310 --> 00:01:04.850
+Jennifer p: obviously just the undertaking of, like, trying to… because there's essentially two reproductions, right? Both of you kind of did one. It's hard to kind of go in and piece…
+
+10
+00:01:05.310 --> 00:01:07.869
+Jennifer p: Piece apart every little detail of it, so…
+
+11
+00:01:08.210 --> 00:01:19.440
+Jennifer p: Feel free to check, obviously, the report and see if there's any big things missing, but I ultimately… I mean, I think, Devia, you can kind of support me on this, because I think Devia kind of did a lot of, like, the
+
+12
+00:01:19.630 --> 00:01:27.179
+Jennifer p: finding the results, right, Devia? Because I was writing more of, like, the introduction parts, and, like, the paper parts, and kind of…
+
+13
+00:01:27.330 --> 00:01:40.399
+Jennifer p: Devia and I did some conclusions together, but she kind of was looking more at the results, and I kind of went after her and looked also. Devia, do you think we were kind of more… I know when I was looking at the… both of your guys' codes, I was kind of…
+
+14
+00:01:40.400 --> 00:01:57.009
+Jennifer p: gravitating a little bit more towards Shiva's, because at the end of his sections, he had some summaries and stuff like that that I found it was easy to pull from and include and report and stuff like that. So I just wanted to kind of point that out. I didn't want anyone to feel like I was…
+
+15
+00:01:57.450 --> 00:01:59.680
+Jennifer p: Or any of us were, you know, in…
+
+16
+00:02:00.060 --> 00:02:05.589
+Jennifer p: And… trying to skip anyone's input or anything like that. Does that make sense?
+
+17
+00:02:05.870 --> 00:02:06.560
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+18
+00:02:06.560 --> 00:02:07.080
+sukanya: Yeah.
+
+19
+00:02:07.080 --> 00:02:12.260
+jb2hj@mtmail.mtsu.edu: It's okay. I think… I was gonna add summaries, but I'm not gonna lie, I was kinda tired.
+
+20
+00:02:12.480 --> 00:02:12.880
+Jennifer p: Yeah.
+
+21
+00:02:12.880 --> 00:02:20.419
+jb2hj@mtmail.mtsu.edu: There was just so much. We have the… we had… I had so much going on, I was like, it's okay if I don't add summaries for this one.
+
+22
+00:02:21.110 --> 00:02:21.790
+Jennifer p: Yeah.
+
+23
+00:02:22.360 --> 00:02:27.140
+jb2hj@mtmail.mtsu.edu: So I was… yeah. Is there… You were saying?
+
+24
+00:02:28.560 --> 00:02:39.120
+Jennifer p: I think, with that being said, also, since some of the conclusions that we wrote in the paper itself were based off of Shiva's works, I…
+
+25
+00:02:39.470 --> 00:02:43.490
+Jennifer p: I did want to just point out that I think on the…
+
+26
+00:02:43.990 --> 00:02:56.769
+Jennifer p: machine learning models. I think we didn't take out… we left a data leakage variable on it, which is fine. I don't think that's gonna be something that the teacher's gonna, like, write us off for, as long as we just kind of
+
+27
+00:02:56.950 --> 00:03:05.099
+Jennifer p: write, which I did in the paper, like, oh, we noticed, like, literally, this is due tomorrow, like, we noticed it… I noticed it last night, like, late.
+
+28
+00:03:05.680 --> 00:03:20.750
+Jennifer p: We don't have time to re… redo the whole code and rewrite the paper, so… It is something that is included in the reflection on the paper, that, you know, one of the… probably the reasons why one of our results aren't… aren't really matching up is
+
+29
+00:03:20.870 --> 00:03:23.680
+Jennifer p: You know, data leakage,
+
+30
+00:03:24.600 --> 00:03:32.150
+Jennifer p: And I don't know. I just wanted to point that out, because I didn't want anyone to be like, oh, we should probably fix it. And, I mean, unless you guys really think we should, but it…
+
+31
+00:03:32.150 --> 00:03:32.590
+jb2hj@mtmail.mtsu.edu: Because I'll do that.
+
+32
+00:03:32.590 --> 00:03:33.190
+Jennifer p: I think it's time.
+
+33
+00:03:33.190 --> 00:03:37.519
+jb2hj@mtmail.mtsu.edu: I think it's, like, one more point to write about why we didn't get the same results.
+
+34
+00:03:37.520 --> 00:03:43.990
+Jennifer p: Right, yeah, and if anything, yeah, it's a good reflection item, so… I don't know.
+
+35
+00:03:44.460 --> 00:03:45.750
+jb2hj@mtmail.mtsu.edu: Yeah, I think it's fun.
+
+36
+00:03:46.810 --> 00:03:53.420
+sukanya: Yeah, just fill this, ethics discussion or something, what we have to do, right? Right here, ethics discussion.
+
+37
+00:03:56.110 --> 00:03:56.669
+jb2hj@mtmail.mtsu.edu: Oh, exactly.
+
+38
+00:03:56.670 --> 00:03:58.819
+sukanya: How do we have it completed fast.
+
+39
+00:03:59.430 --> 00:04:02.740
+jb2hj@mtmail.mtsu.edu: Ethics discussion? Is it in the report, like, at the end?
+
+40
+00:04:03.460 --> 00:04:04.340
+sukanya: Oh, yeah.
+
+41
+00:04:04.570 --> 00:04:07.510
+jb2hj@mtmail.mtsu.edu: I'll look at it after I finish the environmental setup.
+
+42
+00:04:08.420 --> 00:04:10.160
+sukanya: Oh, yeah, yeah, okay.
+
+43
+00:04:10.160 --> 00:04:17.110
+Jennifer p: Yeah, Devious, sorry, I know you had written that, and I tried to keep as much as you wrote in, but I wanted to expand on it a little bit, because I didn't feel…
+
+44
+00:04:17.329 --> 00:04:23.869
+Jennifer p: Like, it was super… What you had written was… seemed to me more like a…
+
+45
+00:04:24.420 --> 00:04:32.140
+Jennifer p: Rehashing what we already kind of explained as far as some of the things that were… you know, some of the reasons that things were…
+
+46
+00:04:32.280 --> 00:04:32.850
+Jennifer p: differing?
+
+47
+00:04:32.850 --> 00:04:33.180
+sukanya: God.
+
+48
+00:04:33.440 --> 00:04:38.420
+Jennifer p: And so I thought it might be good to kind of go a little bit deeper into the actual ethical.
+
+49
+00:04:38.640 --> 00:04:40.030
+sukanya: Yeah, that's why I'm asking.
+
+50
+00:04:40.560 --> 00:04:43.879
+sukanya: Good, or do we have to make changes or something?
+
+51
+00:04:45.620 --> 00:04:48.929
+sukanya: So, these three sections, in the ethics discussion?
+
+52
+00:04:49.560 --> 00:04:57.969
+sukanya: So, the challenges, resource considerations, and the scientific one, we have to change this if we want to. Like, if it is not good.
+
+53
+00:04:58.890 --> 00:05:07.019
+jb2hj@mtmail.mtsu.edu: I'll look at it. I haven't, reached the end of the report yet, but I was… I'll write the environmental setup, and then I'll take a look at it.
+
+54
+00:05:07.610 --> 00:05:08.260
+sukanya: Okay.
+
+55
+00:05:08.790 --> 00:05:11.969
+jb2hj@mtmail.mtsu.edu: And then I'll text y'all, y'all can submit… one of y'all can submit it?
+
+56
+00:05:12.200 --> 00:05:14.639
+jb2hj@mtmail.mtsu.edu: So, who's making the presentation this time?
+
+57
+00:05:17.520 --> 00:05:33.050
+Jennifer p: I don't mind doing it if you guys all want me to, and also if you guys are okay, like, literally, these presentations are 3 minutes, and I think that you… you guys have all done amazing jobs in the past with creating PowerPoint presentations that are super fancy and lovely.
+
+58
+00:05:33.050 --> 00:05:34.670
+jb2hj@mtmail.mtsu.edu: It was…
+
+59
+00:05:34.810 --> 00:05:36.319
+Jennifer p: Want to put a lot of effort into it.
+
+60
+00:05:36.320 --> 00:05:39.970
+jb2hj@mtmail.mtsu.edu: I'm not gonna lie, I think it was, like, an AI tool that makes presentations.
+
+61
+00:05:39.970 --> 00:05:40.750
+Jennifer p: Yeah…
+
+62
+00:05:40.750 --> 00:05:49.710
+jb2hj@mtmail.mtsu.edu: So… because I… yeah, like you said, it's like 5… it's a 5-minute presentation, so all I did was just change the content, and everything else was…
+
+63
+00:05:49.870 --> 00:05:58.299
+jb2hj@mtmail.mtsu.edu: the template was completely AI. I just added in the pictures and the content, I just wrote some points here and there, that's it.
+
+64
+00:05:58.890 --> 00:06:07.970
+jb2hj@mtmail.mtsu.edu: So, if you want to make it, I don't mind making it, being… it being simple, because it's 3 or 5 minutes, so it doesn't really matter.
+
+65
+00:06:07.970 --> 00:06:15.799
+Jennifer p: The thing that I think about with these presentations is they're not… the PowerPoint's not really for the audience, it's more for us to guide.
+
+66
+00:06:15.800 --> 00:06:16.520
+jb2hj@mtmail.mtsu.edu: Exactly.
+
+67
+00:06:16.520 --> 00:06:29.600
+Jennifer p: to make sure that we know what we're supposed to say. So if we make it too detailed, we're gonna be more confused when we come to present. When we have to make it in 3 minutes, we're gonna be like, shoot, what do I… what do I exactly like I said?
+
+68
+00:06:29.600 --> 00:06:30.060
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+69
+00:06:30.060 --> 00:06:36.140
+Jennifer p: That's why I think it's gonna be important to try to make it simple, because… because it's…
+
+70
+00:06:36.310 --> 00:06:42.600
+Jennifer p: 5 minutes at most, but lately it's been, like, 3 minutes, because it's… we're always running late, you know what I mean?
+
+71
+00:06:42.600 --> 00:06:43.439
+jb2hj@mtmail.mtsu.edu: Yeah, the time.
+
+72
+00:06:43.440 --> 00:06:44.210
+sukanya: Yeah, yeah.
+
+73
+00:06:44.210 --> 00:06:46.820
+jb2hj@mtmail.mtsu.edu: Yeah, well, if you don't mind making it…
+
+74
+00:06:47.380 --> 00:06:50.569
+jb2hj@mtmail.mtsu.edu: It'll be… I don't mind being… it being simple.
+
+75
+00:06:50.960 --> 00:06:51.630
+Jennifer p: Okay.
+
+76
+00:06:51.820 --> 00:06:55.429
+Jennifer p: I'm cool with making it if you guys, all want me to, or…
+
+77
+00:06:55.820 --> 00:06:59.370
+Jennifer p: It's totally fine with me. Oh, but yeah, it's gonna be simple.
+
+78
+00:07:00.500 --> 00:07:04.200
+jb2hj@mtmail.mtsu.edu: So, is there anything anyone else wants to add?
+
+79
+00:07:06.650 --> 00:07:08.050
+jb2hj@mtmail.mtsu.edu: Or maybe change?
+
+80
+00:07:08.410 --> 00:07:09.590
+jb2hj@mtmail.mtsu.edu: We're good, right?
+
+81
+00:07:11.350 --> 00:07:21.430
+Jennifer p: Yeah, we're good, and just, me pointing one more thing out, what I wrote in the agenda is also, I did put a lot of, like, diagrams toward the bottom at the,
+
+82
+00:07:22.230 --> 00:07:35.760
+Jennifer p: The appendix. The appendix side of it, and I just wanted to point that out, because I know in the past, not everyone really likes having a lot of diagrams in there, but I did, I scanned through the homework instructions again before I,
+
+83
+00:07:36.050 --> 00:07:47.439
+Jennifer p: you know, before I felt like, oh, it's done, I wanted to make sure we included everything that it asked for, because it's kind of complicated. And I was like, oh, he does ask for some, like, comparison, like, like.
+
+84
+00:07:47.750 --> 00:07:52.770
+Jennifer p: graphs or something like that. So, that's why I wanted to put those in…
+
+85
+00:07:52.980 --> 00:07:54.819
+Jennifer p: the document. I didn't want to make…
+
+86
+00:07:54.960 --> 00:07:58.619
+Jennifer p: put it in the body too much and make it super long, so I put it at the end, but…
+
+87
+00:07:59.180 --> 00:08:07.530
+Jennifer p: I just wanted to demonstrate how we showed that we went through the same process and got, you know, side-by-side of some of the visuals.
+
+88
+00:08:07.960 --> 00:08:10.360
+jb2hj@mtmail.mtsu.edu: Yeah. I think it should be fine.
+
+89
+00:08:15.430 --> 00:08:20.730
+Jennifer p: Does anyone have any concerns or anything they wanted to add to the agenda of this meeting?
+
+90
+00:08:23.180 --> 00:08:25.040
+jb2hj@mtmail.mtsu.edu: I think we're good. So…
+
+91
+00:08:25.040 --> 00:08:25.430
+sukanya: mute.
+
+92
+00:08:25.430 --> 00:08:37.300
+jb2hj@mtmail.mtsu.edu: Oh, so all I'll do is, I'll write the environmental setup and take a look at the discussion part, and I'll text in the group chat so one of y'all can submit it.
+
+93
+00:08:38.870 --> 00:08:40.719
+jb2hj@mtmail.mtsu.edu: If… that is, if you want to do it today.
+
+94
+00:08:41.440 --> 00:08:44.169
+jb2hj@mtmail.mtsu.edu: And we're done, we're, like, done with it.
+
+95
+00:08:47.360 --> 00:08:54.580
+Jennifer p: Okay. If… I mean, is everyone else… does anyone else feel they need more time to… screw it.
+
+96
+00:08:58.860 --> 00:09:07.339
+Jennifer p: or if you've had a chance to read through it, you know, I just want to make sure everyone has the opportunity to make any edits, before… before we…
+
+97
+00:09:07.490 --> 00:09:16.929
+Jennifer p: submit it. Like, I'm fine with it. I've already gone and made the edits that I felt were necessary, but I don't want to step on anyone's toes if anyone else wants to go and make changes.
+
+98
+00:09:17.610 --> 00:09:25.599
+jb2hj@mtmail.mtsu.edu: That's fine. I'll… I'll do the things, and we can submit. If… well, Shiva is… is that okay, or…
+
+99
+00:09:25.830 --> 00:09:28.909
+Shiva Kumar Chary Valaboju: Yeah, everything is good for me, I don't have any concerns.
+
+100
+00:09:29.140 --> 00:09:33.339
+jb2hj@mtmail.mtsu.edu: Okay, so I guess after we finish the report, we submit today, right?
+
+101
+00:09:34.450 --> 00:09:39.179
+Jennifer p: Yeah, I'm cool with it, if you guys are cool with it. Who wants to be the submitter this time?
+
+102
+00:09:42.510 --> 00:09:44.010
+sukanya: I'll submit your report.
+
+103
+00:09:46.810 --> 00:09:47.889
+Jennifer p: Thanks for…
+
+104
+00:09:47.890 --> 00:09:48.280
+sukanya: Yeah.
+
+105
+00:09:48.280 --> 00:09:49.960
+Jennifer p: Thanks for volunteering yourself.
+
+106
+00:09:49.960 --> 00:09:51.200
+jb2hj@mtmail.mtsu.edu: Thank you for doing that, okay.
+
+107
+00:09:51.940 --> 00:09:54.719
+jb2hj@mtmail.mtsu.edu: Well, I guess, have a good night, everybody.
+
+108
+00:09:55.600 --> 00:09:59.339
+Jennifer p: Alright, thanks for making it short and sweet. Talk to you all later.
+
+109
+00:09:59.780 --> 00:10:00.410
+sukanya: Yes.
+
